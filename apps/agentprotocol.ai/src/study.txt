@@ -1,0 +1,3 @@
+What is this agent protocol and what exactly does it define. 
+How would this agent protocol consider for communicating with agents over a network
+How would it work with future agents designed with fundametnatally different language model architecture
